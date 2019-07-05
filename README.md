@@ -1,3 +1,3 @@
 # Saving Console App
 
-Aplicación de consola correspondiente a una tarea de la materia de Programación Orientada a Objetos donde aplicamos **herencia** y **polimorfismo**.
+Console application corresponding to a homework of Object Oriented Programming subject appliying **inheritance** and **polymorphism**.
